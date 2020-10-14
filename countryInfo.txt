@@ -1,7 +1,7 @@
- United States					 Country Name 				 Norway 
- USA						 Alpha Code 				 NOR 
- Washington, D.C.				 Capital 				 Oslo 
- Americas					 Continent 				 Europe 
- 321645000					 Population 				 5176998 
- USD						 Currency 				 NOK 
- 1						 Currency Rate 				 9.25005
+France					 Country Name 					 Saudi Arabia 
+ FRA						 Alpha Code 					 SAU 
+ Paris					 Capital 					 Riyadh 
+ Europe						 Continent 						 Asia 
+ 66186000						 Population 						 31521418 
+ EUR						 Currency 						 SAR 
+ 1						 Currency Rate 						 4.409485
